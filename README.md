@@ -1,6 +1,10 @@
 # NoteTaker
 
 ## Link to the deployed application
+Heroku app link:
+https://notetaker-kbjss071.herokuapp.com/
+
+![NoteTake](./public/assets/images/Capture.PNG)
 
 ## To-do lists
 - When an user opens the Note Taker,
@@ -17,3 +21,6 @@
     - then the user should be presented with empty fields to enter a new note title and the notes' text in the right-hand column.
 
 ## Words done for this project
+- Created two HTML calls for `index.html` and `notes.html` in case certain urls are called
+- Created GET, POST, and DELETE methods to get data from a database, send a data to the database, and delete a data from the database.
+- Open a `Heroku` url to deploy the application.
